@@ -1,2 +1,2 @@
-# BMI Calculator
- Web BMI Calculator using HTML, CSS and JS
+# BMI Calculator Mockup
+ Web BMI Calculator Mockup using HTML, CSS and JS
